@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1KYUXOXrfmhDEfRISAOHYN&ust=1687191228569000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDw66Gbzf8CFQAAAAAdAAAAABAE
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1KYUXOXrfmhDEfRISAOHYN&ust=1687191228569000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDw66Gbzf8CFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Sushant Aggarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
