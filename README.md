@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushh2911&label=Profile%20views&color=0e75b6&style=flat" alt="sushh2911" /> </p>
 
 <p align="left"> <a href="https://twitter.com/itz_sushant_" target="blank"><img src="https://img.shields.io/twitter/follow/itz_sushant_?logo=twitter&style=for-the-badge" alt="itz_sushant_" /></a> </p>
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThzd3J1bHl0aWt5Y20wdnlheTdqcHBvdmFpdTg2bHF4OHI4N3N0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif">
 
 - 🔭 I’m currently working on **Python**
 
